@@ -3,7 +3,7 @@ server:
 
 spring:
   boot:
-    message : messag from employee service update 2 busrefresh
+    message : messag from employee service update 3 busrefresh
   datasource:
     url: jdbc:mysql://localhost:3306/employee_db
     username: root
